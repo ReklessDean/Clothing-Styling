@@ -1,7 +1,7 @@
 {
   "name": "StyleSync AI",
   "short_name": "StyleSync",
-  "start_url": "/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#09090b",
   "theme_color": "#09090b",
