@@ -1,0 +1,7 @@
+{
+  "name": "StyleSync AI",
+  "description": "Your AI-powered digital wardrobe and personal stylist. Scan clothes, organize your closet, and get smart outfit recommendations for any occasion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
